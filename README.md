@@ -1,5 +1,5 @@
 Bell's revision
-All the revision are in epoch3d.zip under the main branch.
+All the revision are in epoch3d.zip under the main branch, please see ref. https://github.com/Bellahra/epoch_Lorentz_Drude/blob/main/Readme_for_epoch3d_zip.md
 
 
 # EPOCH instructions
