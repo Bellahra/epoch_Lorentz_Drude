@@ -1,3 +1,7 @@
+Bell's revision
+All the revision are in epoch3d.zip under the main branch.
+
+
 # EPOCH instructions
 
 To clone this repository from GitHub, use the command:
